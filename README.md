@@ -1,5 +1,12 @@
 # agent-infra-agent-test
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/agent-infra-agent-test/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/agent-infra-agent-test/actions)
+![License](https://img.shields.io/github/license/yksanjo/agent-infra-agent-test)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/agent-infra-agent-test)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/agent-infra-agent-test)
+
 ## Detailed Description
 
 agent-infra-agent-test is maintained as an industry-grade software project with production-ready engineering practices.  
